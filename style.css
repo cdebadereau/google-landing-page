@@ -5,16 +5,24 @@ body {
 
 header {
   text-align: center;
+  padding-top: 150px;
 }
 
 .google-logo {
   max-height: 90px;
 }
 
+.magnifying-glass-icon {
+  position: relative;
+  left: 40px;
+  color: #757575;
+}
+
 .search-bar {
-  padding: 10px 20px;
+  padding: 10px 20px 10px 55px;
   border-radius: 30px;
   border: none;
   margin-top: 50px;
   width: 750px;
+  color: #757575;
 }
