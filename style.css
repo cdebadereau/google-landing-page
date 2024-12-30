@@ -3,7 +3,7 @@ body {
   height: 100%;
 }
 
-header {
+main {
   text-align: center;
   padding-top: 150px;
 }
@@ -16,6 +16,7 @@ header {
   position: relative;
   left: 40px;
   color: #757575;
+  font-size: 14px;
 }
 
 .search-bar {
@@ -25,4 +26,8 @@ header {
   margin-top: 50px;
   width: 750px;
   color: #757575;
+}
+
+.icon {
+  font-size: 35px;
 }
