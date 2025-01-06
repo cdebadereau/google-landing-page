@@ -28,6 +28,52 @@ main {
   color: #757575;
 }
 
-.icon {
-  font-size: 35px;
+.social-icons .icons {
+  font-size: 25px;
+  background: #7171716f;
+  padding: 10px;
+  border-radius: 50%;
+  margin: 10px 20px;
+}
+
+.social-icons .icon {
+  padding: 20px 20px 10px;
+}
+
+.social-icons .icon:hover {
+  background: #535353b4;
+  padding: 20px 20px 10px;
+  border-radius: 4px;
+}
+
+.social-icons a {
+  text-decoration: none;
+}
+
+.social-icons .fa-square-instagram {
+  background: linear-gradient(45deg, #f58529, #dd2a7b, #8134af, #515bd4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.social-icons .fa-youtube {
+  color: #f50033;
+}
+
+.social-icons .fa-pinterest {
+  color: #e60023;
+}
+
+.social-icons .fa-facebook {
+  color: #2b66ff;
+}
+
+.social-icons .fa-linkedin {
+  color: #2466c2;
+}
+
+.social-icons p {
+  color: #fff;
+  font-size: 13px;
+  margin-top: 10px;
 }
