@@ -77,3 +77,12 @@ main {
   font-size: 13px;
   margin-top: 10px;
 }
+
+.social-icons .fa-plus {
+  background: #004a76;
+  color: #fff;
+  font-size: 15px;
+  padding: 15px;
+  border-radius: 50%;
+  margin: 10px 20px;
+}
